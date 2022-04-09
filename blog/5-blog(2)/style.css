@@ -1,0 +1,78 @@
+#header-logo{
+    width: 150px;
+    height: 100px;
+}
+#id{
+    width: 80%;
+    height: 200px;
+}
+main{
+    width: 70%;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.header-link{
+    text-decoration: none;
+    color: black;
+    font-size: 1.2rem;
+}
+#author-container{
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+}
+aside{
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+}
+#author-container a{
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+.header-link:hover{
+    color: orange;
+}
+.header-img{
+    width: 70%;
+}
+.image img{
+    width: 50%;
+}
+.tags img{
+    width: 50%;
+}
+.widget{
+    border-top: 3px solid black;
+}
+.widget-title{
+    margin-top: 20px;
+    font-size: 1.3rem;
+}
+
+#input-name{
+    display: block;
+    margin-bottom: 15px;
+}
+#input-email{
+    display: block;
+    margin-bottom: 15px;
+}
+.sub-btn{
+    background-color: #000000;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+#search form{
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+#search img{
+    height: 13px;
+    //background-color: #000000;
+}
